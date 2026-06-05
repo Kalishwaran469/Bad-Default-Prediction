@@ -59,11 +59,9 @@ The application was successfully deployed on an AWS EC2 Ubuntu instance and made
 
 ### AWS EC2 Deployment Demo
 
-![AWS EC2 Deployment Demo](assets/aws-ec2-demo.gif)
+## Project Demo
 
-**OR**
-
-[Watch Deployment Demo](assets/aws-ec2-demo.mp4)
+[Watch AWS EC2 Deployment Demo](assets/aws-ec2-demo.mp4)
 
 ## AWS EC2 Deployment
 
