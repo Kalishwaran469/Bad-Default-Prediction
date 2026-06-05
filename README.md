@@ -57,11 +57,11 @@ The solution demonstrates the practical application of machine learning in credi
 
 The application was successfully deployed on an AWS EC2 Ubuntu instance and made accessible through the internet for real-time customer risk prediction.
 
-### AWS EC2 Deployment Demo
-
 ## Project Demo
 
-[Watch AWS EC2 Deployment Demo](assets/aws-ec2-demo.mp4)
+🎥 **Watch the AWS EC2 Deployment Demo**
+
+https://drive.google.com/file/d/1BfiybchUivUUGXJYnkbaqu48Hwmewa-x/view?usp=drive_link
 
 ## AWS EC2 Deployment
 
